@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DAVID\\source\\repos\\ReviewGenerator\\ReviewGenerator\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\DAVID\\source\\repos\\ReviewGenerator\\ReviewGenerator\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\DAVID\\source\\repos\\ReviewGenerator\\ReviewGenerator\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ReviewGenerator.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ReviewGenerator.props",
+      "PackagePath": "build\\ReviewGenerator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ReviewGenerator.props",
+      "PackagePath": "buildMultiTargeting\\ReviewGenerator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ReviewGenerator.props",
+      "PackagePath": "buildTransitive\\ReviewGenerator.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

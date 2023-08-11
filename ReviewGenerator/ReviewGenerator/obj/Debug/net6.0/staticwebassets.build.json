@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "Lx8x2bCGEkXXLqqMHyZYqhUCML2yWU659F38uAoVQss=",
+  "Source": "ReviewGenerator",
+  "BasePath": "_content/ReviewGenerator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ReviewGenerator\\wwwroot",
+      "Source": "ReviewGenerator",
+      "ContentRoot": "C:\\Users\\DAVID\\source\\repos\\ReviewGenerator\\ReviewGenerator\\wwwroot\\",
+      "BasePath": "_content/ReviewGenerator",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DAVID\\source\\repos\\ReviewGenerator\\ReviewGenerator\\wwwroot\\index.html",
+      "SourceId": "ReviewGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DAVID\\source\\repos\\ReviewGenerator\\ReviewGenerator\\wwwroot\\",
+      "BasePath": "_content/ReviewGenerator",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\DAVID\\source\\repos\\ReviewGenerator\\ReviewGenerator\\wwwroot\\script.js",
+      "SourceId": "ReviewGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DAVID\\source\\repos\\ReviewGenerator\\ReviewGenerator\\wwwroot\\",
+      "BasePath": "_content/ReviewGenerator",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\DAVID\\source\\repos\\ReviewGenerator\\ReviewGenerator\\wwwroot\\styles.css",
+      "SourceId": "ReviewGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DAVID\\source\\repos\\ReviewGenerator\\ReviewGenerator\\wwwroot\\",
+      "BasePath": "_content/ReviewGenerator",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}
