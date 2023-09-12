@@ -27,26 +27,12 @@ This ASP.NET Core application ingests training data (included within the project
    Tests can be found in project/folder ReviewGenerator.Tests.
 
 2.  **Front end:**<br/>
-   See screenshots below.
+   Simple front-end supplied to supplement the Swagger page.
 
 3.  **Azure hosting:**<br/>
-   The application has been deployed to Azure and can be accessed here:  https://reviewgenerationapp.azurewebsites.net/index.html
+   The application has previously been deployed to Azure and could be accessed here:  https://reviewgenerationapp.azurewebsites.net/index.html (currently stopped as it is only a free account)
 
 4.  **Dockerization:**<br/>
    The Dockerfile is included within the ReviewGenerator project.
 
-# Screenshots:
-
-1.  **Local testing (Frontend):**<br/>
-![image](https://github.com/dpoarch/reviewgenerationapp/assets/9018327/3110cf13-cb55-40e9-93a8-22a2eded9879)
-![image](https://github.com/dpoarch/reviewgenerationapp/assets/9018327/54dfcad6-ed24-45dc-8890-10c081c79c37)
-![image](https://github.com/dpoarch/reviewgenerationapp/assets/9018327/0047ccca-a1b4-4d90-b4e1-4accbbc406f9)
-![image](https://github.com/dpoarch/reviewgenerationapp/assets/9018327/e891860d-d2d6-4ef3-8d4a-93255468e45d)
-
-2.  **Local testing (Swagger):**<br/>
-![image](https://github.com/dpoarch/reviewgenerationapp/assets/9018327/391b7051-30e0-4440-99a9-2a1f48387b4c)
-![image](https://github.com/dpoarch/reviewgenerationapp/assets/9018327/efb812b7-e80b-4cf5-bd23-40d2d0dc7b89)
-
-3.  **Azure-deployed app:**<br/>
-![image](https://github.com/dpoarch/reviewgenerationapp/assets/9018327/5a3f8b75-d98e-4fe1-b937-7641b1756638)
 
