@@ -1,6 +1,6 @@
 # Review Generation App
 
-This ASP.NET Core application ingests training data (included within the project in reviews.json) and automatically generates a review (via use of of Markov chains) each time the "generate" endpoint is hit (or when the "Generate Review" button is clicked on the frontend).
+This ASP.NET Core application ingests training data (included within the project in reviews.json) and automatically generates a review (via use of Markov chains) each time the "generate" endpoint is hit (or when the "Generate Review" button is clicked on the frontend).
 
 # To build and run the ReviewGenerator project, follow these instructions:
 
